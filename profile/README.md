@@ -1,14 +1,14 @@
-# 🦙 Llamatik
+# Llamatik
 
 ### Open AI. Your devices. Your rules.
 
 **An open-source ecosystem for private, efficient, and distributed AI — built with Kotlin Multiplatform.**
 
-[Website](https://llamatik.com) · [Documentation](https://docs.llamatik.com) · [GitHub](https://github.com/llamatik)
+[Website](https://llamatik.com) · [Documentation](https://docs.llamatik.com) · [Discord](https://discord.gg/vHB3qASbg)
 
 ---
 
-## 🌍 Our Mission
+## Our Mission
 
 We believe AI should be **accessible, private, sustainable, and owned by the people who use it**.
 
@@ -18,11 +18,11 @@ Our goal is to make AI development easier for everyone, from developers building
 
 **Local by default. Connected when needed. Open by design.**
 
-## 🚀 What We're Building
+## What We're Building
 
 Llamatik is more than an inference library. It's a growing collection of open-source technologies and applications designed to make local and distributed AI practical.
 
-### 🧠 Llamatik — Kotlin Multiplatform AI SDK
+### Llamatik — Kotlin Multiplatform AI SDK
 
 Our core project provides the building blocks for developing AI-powered applications across Android, iOS, Desktop, and WebAssembly.
 
@@ -39,7 +39,7 @@ The SDK is organized into three layers: `core`, `sdk`, and `sdk-agent`.
 
 **[Explore Llamatik SDK](https://github.com/llamatik/Llamatik)**
 
-### 🤖 Llamatik App — Your Personal AI Companion
+### Llamatik App — Your Personal AI Companion
 
 A cross-platform application that puts local AI directly into users' hands.
 
@@ -69,7 +69,7 @@ Llamatik Code brings AI assistance directly into the development workflow, inclu
 
 **Built for developers who want AI assistance without giving up control over their tools and data.**
 
-### 🌐 Llamatik Network — Distributed AI
+### Llamatik Network — Distributed AI
 
 *An ongoing research and development initiative.*
 
@@ -89,7 +89,7 @@ Think of it as exploring a **BitTorrent-inspired network for AI inference**.
 
 This work is experimental; decentralized scheduling, trust, security, and resource-sharing capabilities are part of the longer-term vision, not established production features.
 
-## 🌱 Our Principles
+## Our Principles
 
 **🔐 Privacy First**
 
@@ -116,9 +116,9 @@ Llamatik is built by developers, for developers, with practical APIs, extensible
 | Project | Purpose |
 |---|---|
 | **[Llamatik SDK](https://github.com/llamatik/Llamatik)** | On-device inference, multimodal AI, RAG, and agent development |
-| **Llamatik App** | Personal AI assistant and SDK showcase |
-| **Llamatik Code** | AI coding assistant for IntelliJ-based IDEs |
-| **Llamatik Server / Node** | Infrastructure for serving inference requests and connecting devices |
+| **[Llamatik App](https://github.com/llamatik/Llamatik)** | Personal AI assistant and SDK showcase |
+| **[Llamatik Code](https://github.com/llamatik/Llamatik-Code)** | AI coding assistant for IntelliJ-based IDEs |
+| **[Llamatik Server / Node](https://github.com/llamatik/Llamatik-Server)** | Infrastructure for serving inference requests and connecting devices |
 | **Llamatik Mesh** *(vision)* | Peer-to-peer discovery and distributed AI inference |
 
 These projects share a common objective: make AI more accessible, private, and independent of centralized infrastructure.
@@ -139,4 +139,4 @@ Start by exploring the [main repository](https://github.com/llamatik/Llamatik), 
 
 **Run locally. Build freely. Connect intelligently.**
 
-[llamatik.com](https://llamatik.com) · [Documentation](https://docs.llamatik.com) · [GitHub Organization](https://github.com/llamatik)
+[llamatik.com](https://llamatik.com) · [Documentation](https://docs.llamatik.com) · [Discord](https://discord.gg/vHB3qASbg)
